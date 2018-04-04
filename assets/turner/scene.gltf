@@ -1,0 +1,332 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.13739378750324249,
+        -3.5188572406768799,
+        1.1628196239471436
+      ],
+      "min": [
+        -2.1980819702148438,
+        -3.8728363513946533,
+        -0.74212920665740967
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99995779991149902,
+        1,
+        0.99987250566482544
+      ],
+      "min": [
+        -0.99476242065429688,
+        -0.99992352724075317,
+        -0.99990200996398926
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999847412109375,
+        0.99992102384567261,
+        1,
+        1
+      ],
+      "min": [
+        -0.99999880790710449,
+        -0.99999958276748657,
+        -0.99999827146530151,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99369001388549805,
+        0.99962759017944336
+      ],
+      "min": [
+        0.0010868363315239549,
+        0.0040044700726866722
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 359535,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 23939,
+      "max": [
+        0.19465465843677521,
+        -3.554631233215332,
+        1.1628196239471436
+      ],
+      "min": [
+        -0.89612513780593872,
+        -3.8470432758331299,
+        -0.74201780557632446
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1860036,
+      "componentType": 5126,
+      "count": 23939,
+      "max": [
+        0.99914795160293579,
+        0.99999994039535522,
+        0.99989831447601318
+      ],
+      "min": [
+        -0.99988490343093872,
+        -0.99995523691177368,
+        -0.99977779388427734
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 23939,
+      "max": [
+        0.9999847412109375,
+        0.9990837574005127,
+        1,
+        1
+      ],
+      "min": [
+        -0.99940162897109985,
+        -0.99992543458938599,
+        -0.99980121850967407,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 23939,
+      "max": [
+        0.99450004100799561,
+        0.99945443868637085
+      ],
+      "min": [
+        0.017698818817734718,
+        0.011874265968799591
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1438140,
+      "componentType": 5125,
+      "count": 120405,
+      "max": [
+        23938
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "rone (https://sketchfab.com/rone)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/e4695b1ff9d24b1e90a222bdf1c90dfb",
+      "title": "The Fighting Temerarie W Turner"
+    },
+    "generator": "Sketchfab-3.18.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1919760,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 715768,
+      "byteOffset": 1919760,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2147304,
+      "byteOffset": 2635528,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1431536,
+      "byteOffset": 4782832,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6214368,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/The_Fighting_Temerarie._W._Turner_baseColor.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "The_Fighting_Temerarie._W._Turner",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "The Fighting Temerarie. W. Turner.obj.cleaner"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
